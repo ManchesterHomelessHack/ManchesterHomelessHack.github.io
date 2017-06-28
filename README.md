@@ -1,2 +1,5 @@
-# ManchesterHomelessHack.github.io
-A place to share and collaborate on things related to the Manchester homeless hackathon events
+## Welcome to the #Homelesshack GitHub Pages
+
+[Head over to the published pages](https://manchesterhomelesshack.github.io)
+
+More to come soon.
