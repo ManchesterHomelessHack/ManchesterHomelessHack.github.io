@@ -1,0 +1,35 @@
+*Suggestions? [Add an issue](https://github.com/homelesshack/homelesshack.github.io/issues) in GitHub*
+
+## Interested in homelessness? Wondering about getting involved? Why not try this?
+
+If you get involved just to find out more about [homelessness](https://www.manchesterdigital.com/events/homelesshack) that would be great. If you would like to do more it doesn't really matter how much time you can spare or what skills and experience you can offer - there will be a team that would love to have your support and encouragement and you will probably learn something new.
+
+There are conversations going on in social media and [#homelesshack in twitter](https://twitter.com/search?src=typd&q=%23homelesshack) has become a kind of community notice board to share information and ask for help.
+
+[Events](#event-details) are fun, motivating and a great way to get a lot of information in a short space of time. [Events](#event-details) are being organised around the country and it would be great to see more of different shapes and sizes in more places.
+
+Small groups are organising events or trying out new ideas. We have provided [links](#useful-links) to most of these. If you are not sure how to help feel free to contact the team directly.
+
+## Event details
+
+### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
+
+### Leeds (tbc)
+
+### Bristol (tbc)
+
+### Oxford (tbc)
+
+### Cambridge (tbc)
+
+## Past Events
+### [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
+[London Session Grid](062017london.md)
+
+## Join in the conversation
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=homelesshack" class="twitter-hashtag-button" data-show-count="false">Tweet #homelesshack</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/homelesshack" data-widget-id="877836005478465536">#homelesshack Tweets</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
