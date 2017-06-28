@@ -24,7 +24,7 @@ Small groups are organising events or trying out new ideas. We have provided [li
 
 ## Past Events
 ### [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
-[London Session Grid](062017london.md)
+
 
 ## Join in the conversation
 
